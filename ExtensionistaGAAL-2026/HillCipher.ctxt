@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HillCipher
+comment0.text=\r\n\ @author\ Rafael\ Barros\ Infantini\r\n\ @author\ Pedro\ Henrique\ Freire\r\n\ @author\ Guilherme\ de\ Rivoredo\r\n\ @version\ Extensionista\ -\ 11/05/2026\r\n
+comment1.params=c
+comment1.target=int\ charToInt(char)
+comment2.params=i
+comment2.target=char\ intToChar(int)
+comment3.params=matrix\ vector
+comment3.target=int[]\ multiplyMatrixAndVector(int[][],\ int[])
+comment4.params=text
+comment4.target=java.lang.String\ encrypt(java.lang.String)
+comment5.params=text
+comment5.target=java.lang.String\ decrypt(java.lang.String)
+numComments=6
